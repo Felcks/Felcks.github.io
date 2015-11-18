@@ -200,13 +200,13 @@ nav a#pull {
 }
 /* start about us */
 .main_bg{
-	background: #2EB398;
+	background: #8d8f8e;
 }
 .about{
 	margin:20px 0;
 	padding: 2% 2%;
-	border-left: 1px solid #248E78;
-	border-right: 1px solid #248E78;
+	border-left: 4px solid #2EB398;
+	border-right: 4px solid #2EB398;
 }
 .about_img img{
 	width: 100%;
@@ -220,7 +220,7 @@ nav a#pull {
 .about_text h4{
 	font-family: 'Kreon', serif;
 	font-size: 18px;
-	color: #57E0C4;
+	color: #000000;
 	text-transform: capitalize;
 }
 .about_text p{
@@ -259,14 +259,8 @@ nav a#pull {
 .soc_icons ul li a i.fa-google-plus {
 	background: #DD5644;
 }
-.soc_icons ul li a i.fa-pinterest {
-	background: #CC2B27;
-}
 .soc_icons ul li a i.fa-linkedin {
 	background: #0A6C9B;
-}
-.soc_icons ul li a i.fa-dribbble {
-	background: #EF558F;
 }
 .soc_icons ul li a i:hover{
 	background: #323232;
