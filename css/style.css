@@ -205,8 +205,8 @@ nav a#pull {
 .about{
 	margin:20px 0;
 	padding: 2% 2%;
-	border-left: 4px solid #2EB398;
-	border-right: 4px solid #2EB398;
+	border-left: 4px solid #000000;
+	border-right: 4px solid #000000;
 }
 .about_img img{
 	width: 100%;
