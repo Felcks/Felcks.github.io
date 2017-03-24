@@ -1,0 +1,93 @@
+body{
+	background-color:#d7cfcf;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-family: Helvetica;
+	font-size: small;
+}
+nav{
+	background-color: #6b6767;
+	padding: 0px;
+	border-radius: 10px;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+}
+ul{
+	color: #ffffff;
+	padding: 10px;
+}
+nav ul li a:link, nav ul li a:visited{
+	color: #ffffff;
+	border-bottom: none;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.selected{
+	background-color: #D14F19;
+}
+
+.column-1{
+	background-color: #ffffff;
+	border-radius: 10px;
+	padding: 20px;
+	margin-right: 50%;;
+	display: table-cell;
+	vertical-align: top;
+}
+.column-2{
+	background-color: #ffffff;
+	vertical-align: top;
+	padding: 20px;
+	border-radius: 10px;
+	display: table-cell;
+}
+.table{
+	display: table;
+	border-spacing: 10px;
+	margin: -5px -10px -5px -10px;
+}
+.row{
+	display: table-row;
+}
+
+.table-2{
+	display: table;
+	border-spacing: 10px;
+	margin: -5px -10px -5px -10px;
+}
+
+
+.orange-font{
+	color:#D14F19;
+}
+#Habilidades{
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+h4{
+	line-height: 20px;
+}
+
+.grey-font{
+	color: #6b6767;
+	font-style: italic;
+}
+
+.row-2{
+	display: table-row;
+}
+
+.column-1_contato{
+	background-color: #ffffff;
+	border-radius: 10px;
+	padding: 20px;
+	display: table-cell;
+	vertical-align: top;
+}
